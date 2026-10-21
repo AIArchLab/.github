@@ -1,6 +1,6 @@
 # AIArchLab
 
-**From strategy to production: it runs on the floor, it stays under control, and it can be rolled back.**
+**From strategy to production: it runs in production, it stays under control, and it can be rolled back.**
 
 AIArchLab is an independent consulting studio for enterprise AI adoption. We assess readiness,
 design governance as executable control, and prove value in a small pilot before anything scales.
@@ -15,14 +15,14 @@ design governance as executable control, and prove value in a small pilot before
 
 - **AI Readiness Assessment** — a two-week remote assessment:
   process inventory, data boundaries, pilot design, and an AI usage policy.
-  Starts with a free 30-minute scoping call.
+  Starts with a 30-minute scoping call.
 
 ## What we publish here
 
 Works, not articles. Tools you can run and evidence you can inspect.
 
-- **weirwright** — executable change-control gates. Evidence in, verdict out. (MIT)
-- **works** — finished works, one folder per work.
+- [**weirwright**](https://github.com/AIArchLab/weirwright) — executable change-control gates. Evidence in, verdict out. (MIT)
+- [**works**](https://github.com/AIArchLab/works) — finished works, one folder per work. First work in preparation.
 
 ## How the studio works
 
