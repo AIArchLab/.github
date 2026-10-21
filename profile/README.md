@@ -28,7 +28,7 @@ Works, not articles. Tools you can run and evidence you can inspect.
 
 ## How the studio works
 
-AIArchLab is directed by its 董事長 (principal, final decision-maker) and operated with a flat
+AIArchLab is directed by its Founder (principal, final decision-maker) and operated with a flat
 team of AI associates — technical architecture, marketing planning, prototype engineering,
 system development, automation operations. No CxO titles, by design.
 
