@@ -1,5 +1,7 @@
 # AIArchLab
 
+Architecture, Development, and Governance with AI Agent Team
+
 **From strategy to production: it runs in production, it stays under control, and it can be rolled back.**
 
 AIArchLab is an independent consulting studio for enterprise AI adoption. We assess readiness,
